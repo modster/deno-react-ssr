@@ -1,4 +1,4 @@
 import { hydrateRoot } from 'react-dom/client'
-import App from './App.js'
+import App from './StaticDocApp.jsx'
 
 hydrateRoot(document, <App />)

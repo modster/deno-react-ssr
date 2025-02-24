@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState } from 'npm:react';
 
 export default function App() {
   return (

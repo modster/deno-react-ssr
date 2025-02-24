@@ -5,10 +5,10 @@ export default function App() {
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, initial-scale=1" />
           <link rel="stylesheet" href="/styles.css"></link>
-          <title>My app</title>
+          <title>test</title>
         </head>
         <body>
-          <Router />
+            <h1>test</h1>
         </body>
       </html>
     );
