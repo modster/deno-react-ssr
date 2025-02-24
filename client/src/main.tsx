@@ -1,10 +1,5 @@
-import { StrictMode } from "react";
-import { createRoot } from "react-dom/client";
-import "./index.css";
-import App from "./App.tsx";
+import ReactDOMClient from 'react-dom/client'
+import { App } from './App.tsx'
+// React.JSX.Element
 
-createRoot(document.getElementById("root")!).render(
-  <StrictMode>
-    <App />
-  </StrictMode>,
-);
+ReactDOMClient.hydrateRoot(document, <App />)

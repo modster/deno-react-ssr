@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../jsx-ssr-streaming-server/ssr-plot-jsx"
+		},
+		{
+			"path": "../streaming-ssr"
+		}
+	],
+	"settings": {}
+}

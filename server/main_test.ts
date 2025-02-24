@@ -4,7 +4,7 @@ import { expect } from "jsr:@std/expect";
 import { Application } from "jsr:@oak/oak/application";
 import { Router } from "jsr:@oak/oak/router";
 
-import { app } from "./main.ts";
+import { app } from "./main.tsx";
 import routeStaticFilesFrom from "./util/routeStaticFilesFrom.ts";
 
 describe("Application", () => {
