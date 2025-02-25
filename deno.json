@@ -33,7 +33,8 @@
       "dom.iterable",
       "deno.ns"
     ],
-    "jsx": "react-jsx",
-    "jsxImportSource": "react"
+    "jsx": "react-jsxdev",
+    "jsxImportSource": "npm:react@^19.0",
+    "jsxImportSourceTypes": "npm:@types/react@^19.0"
   }
 }

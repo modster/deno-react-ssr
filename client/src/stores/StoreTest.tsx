@@ -1,4 +1,4 @@
-import { usePersonStore } from "../stores/PersonStore.tsx"
+import { usePsersonStore } from "../stores/PersonStore.tsx"
 
 export default function App() {
     // "select" the needed state and actions, in this case, the firstName value
